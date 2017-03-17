@@ -1,0 +1,14 @@
+@incollection{,
+year={2012},
+isbn={978-3-642-29484-6},
+booktitle={Logic and Program Semantics},
+volume={7230},
+series={Lecture Notes in Computer Science},
+editor={Constable, RobertL. and Silva, Alexandra},
+doi={10.1007/978-3-642-29485-3_8},
+title={Capsules and Closures: A Small-Step Approach},
+url={http://dx.doi.org/10.1007/978-3-642-29485-3_8},
+publisher={Springer Berlin Heidelberg},
+author={Jeannin, Jean-Baptiste},
+pages={106-123}
+}

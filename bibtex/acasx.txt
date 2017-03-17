@@ -1,0 +1,24 @@
+@INPROCEEDINGS{DBLP:conf/tacas/JeanninGKGSZP15,
+  author    = {Jean-Baptiste Jeannin and
+               Khalil Ghorbal and
+			   Yanni Kouskoulas and
+			   Ryan Gardner and
+			   Aurora Schmidt and
+			   Erik Zawadzki
+               Andr{\'e} Platzer},
+  title     = {A Formally Verified Hybrid System for the
+               Next-generation Airborne Collision Avoidance System},
+  booktitle = {TACAS},
+  year      = {2015},
+  pages     = {21-36},
+  doi       = {10.1007/978-3-662-46680-3_2},
+  editor    = {Christel Baier and
+               Cesare Tinelli},
+  longbooktitle = {Tools and Algorithms for the Construction
+               and Analysis of Systems - 21st International
+			   Conference, TACAS 2015, London, UK, April
+			   11-18, 2015, Proceedings},
+  series    = {LNCS},
+  volume    = {9035},
+  publisher = {Springer},
+}

@@ -1,0 +1,11 @@
+@inproceedings{JK12a,
+  author="Jean-Baptiste Jeannin and Dexter Kozen",
+  title="Capsules and Separation",
+  booktitle="Proc. 27th ACM/IEEE Symp. Logic in Computer Science (LICS'12)",
+  editor="Nachum Dershowitz",
+  month="June",
+  year="2012",
+  address="Dubrovnik, Croatia",
+  pages="425--430",
+  publisher="IEEE"
+} 

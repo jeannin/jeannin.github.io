@@ -1,0 +1,14 @@
+@ARTICLE{DBLP:journals/jais/GhorbalJZPGC14,
+  author    = {Khalil Ghorbal and
+               Jean-Baptiste Jeannin and
+               Erik W. Zawadzki and
+               Andr{\'e} Platzer and
+               Geoffrey J. Gordon and
+               Peter Capell},
+  title     = {Hybrid Theorem Proving of Aerospace Systems:
+               Applications and Challenges},
+  journal   = {Journal of Aerospace Information Systems},
+  volume    = {11},
+  pages     = {702-713},
+  doi        = {10.2514/1.I010178},
+}

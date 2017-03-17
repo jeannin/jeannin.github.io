@@ -1,0 +1,9 @@
+@article{JK12b,
+  author="Jean-Baptiste Jeannin and Dexter Kozen",
+  title="Computing with Capsules",
+  journal="J. Automata, Languages and Combinatorics",
+  year="2012",
+  volume="17",
+  number="2--4",
+  pages="185--204"
+}

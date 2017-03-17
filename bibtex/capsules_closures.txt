@@ -1,0 +1,11 @@
+@inproceedings{J2011MFPS,
+  author="Jean-Baptiste Jeannin",
+  booktitle="Proc. 27th Conf. Math. Found. Programming Semantics (MFPS XXVII)",
+  editor="Michael Mislove and Jo{\"e}l Ouaknine",
+  title="Capsules and Closures",
+  address="Pittsburgh, PA",
+  publisher="Elsevier Electronic Notes in Theoretical Computer Science",
+  pages = {191--213},
+  month="May",
+  year="2011"
+}

@@ -1,0 +1,9 @@
+@InProceedings{HJM2010ICAS,
+  author = "Heber Herencia-Zapana and Jean-Baptiste Jeannin and  C{\'e}sar Mu{\~n}oz",
+  title = "Formal Verification of Safety Buffers for State-Based Conflict Detection
+and Resolution",
+  booktitle = "Proceedings of 27th International Congress of the Aeronautical
+               Sciences, ICAS 2010",
+  address= "Nice, France",
+  year = "2010"
+}

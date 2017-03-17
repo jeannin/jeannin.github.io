@@ -1,0 +1,14 @@
+@inproceedings{CCGNS13,
+  author    = {Jean-Baptiste Jeannin and
+               Guido de Caso and
+               Juan Chen and
+               Yuri Gurevich and
+               Prasad Naldurg and
+               Nikhil Swamy},
+  title     = {{DKAL*}: Constructing Executable Specifications of
+               Authorization Protocols},
+  booktitle = {ESSoS},
+  year      = {2013},
+  pages     = {139-154},
+  ee        = {http://dx.doi.org/10.1007/978-3-642-36563-8_10}
+}

@@ -1,0 +1,18 @@
+@ARTICLE{DBLP:journals/sttt/JeanninGKSGMP16,
+  author    = {Jean{-}Baptiste Jeannin and
+               Khalil Ghorbal and
+               Yanni Kouskoulas and
+               Aurora Schmidt and
+               Ryan Gardner and
+               Stefan Mitsch and
+               Andr{\'e} Platzer},
+  title     = {A Formally Verified Hybrid System for Safe Advisories in the
+               Next-generation Airborne Collision Avoidance System},
+  journal   = {STTT},
+  longjournal = {International Journal on Software Tools for Technology Transfer},
+  year      = {2016},
+  volume    = {},
+  number    = {},
+  pages     = {},
+  doi       = {10.1007/s10009-016-0434-1}
+}

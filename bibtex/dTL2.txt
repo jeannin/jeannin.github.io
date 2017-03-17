@@ -1,0 +1,20 @@
+@INPROCEEDINGS{DBLP:conf/cade/JeanninP14,
+  author    = {Jean-Baptiste Jeannin and
+			         Andr{\'e} Platzer},
+  title     = {{dTL$^2$}: Differential Temporal Dynamic Logic
+               with Nested Temporalities for Hybrid Systems},
+  booktitle = {IJCAR},
+  year      = {2014},
+  pages     = {292-306},
+  doi       = {},
+  editor    = {St{\'e}phane Demri and
+               Deepak Kapur and
+               Christoph Weidenbach},
+  longbooktitle = {Automated Reasoning, 7th International
+               Joint Conference, IJCAR 2014, Vienna, Austria,
+              Proceedings},
+  publisher = {Springer},
+  series    = {LNCS},
+  subseries = {LNAI},
+  volume    = {8562},
+}

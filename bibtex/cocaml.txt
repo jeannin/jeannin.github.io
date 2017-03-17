@@ -1,0 +1,9 @@
+@article{JKS17a,
+  author="Jean-Baptiste Jeannin and Dexter Kozen and Alexandra Silva",
+  title="{CoCaml}: Functional Programming with Regular Coinductive Types",
+  journal="Fundamenta Informaticae",
+  volume="150",
+  year="2017",
+  pages="347--377",
+  doi="10.3233/FI-2017-1473"
+}

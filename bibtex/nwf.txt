@@ -1,0 +1,9 @@
+@techreport{JKS12a,
+  author="Jean-Baptiste Jeannin and Dexter Kozen and Alexandra Silva",
+  title="Language Constructs for Non-Well-Founded Computation",
+  institution="CWI Amsterdam",
+  number="SEN-1202",
+  month="July",
+  year="2012",
+  note="To appear, M. Felleisen and P. Gardner (Eds.): 22nd European Symposium on Programming (ESOP 2013), LNCS 7792, pp. 61--80. Springer, Heidelberg (2013)"
+} 

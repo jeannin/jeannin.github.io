@@ -1,0 +1,13 @@
+@inproceedings{JK12b,
+  author="Jean-Baptiste Jeannin and Dexter Kozen",
+  title="Computing with Capsules",
+  booktitle="Proc. Conf. Descriptional Complexity of Formal Systems (DCFS 2012)",
+  editor="Martin Kutrib and Nelma Moreira and Rog{\'e}rio Reis",
+  month="July",
+  year="2012",
+  address="Braga, Portugal",
+  publisher="Springer",
+  series="Lecture Notes in Computer Science",
+  volume="7386",
+  pages="1--19"
+} 

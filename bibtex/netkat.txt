@@ -1,0 +1,10 @@
+@inproceedings{AFGJKSW13a,
+  author="Carolyn Jane Anderson and Nate Foster and Arjun Guha and Jean-Baptiste Jeannin and Dexter Kozen and Cole Schlesinger and David Walker",
+  title="{NetKAT}: Semantic Foundations for Networks",
+  booktitle="Proc. 41st ACM SIGPLAN-SIGACT Symp. Principles of Programming Languages (POPL'14)",
+  organization="ACM",
+  pages="113--126",
+  address="San Diego, California, USA",
+  month="January",
+  year="2014"
+}

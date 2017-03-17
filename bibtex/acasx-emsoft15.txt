@@ -1,0 +1,24 @@
+@inproceedings{DBLP:conf/emsoft/JeanninGKGSZP15,
+  author    = {Jean{-}Baptiste Jeannin and
+               Khalil Ghorbal and
+               Yanni Kouskoulas and
+               Ryan Gardner and
+               Aurora Schmidt and
+               Erik Zawadzki and
+               Andr{\'{e}} Platzer},
+  title     = {Formal Verification of {ACAS X},
+               an Industrial Airborne Collision Avoidance System},
+  booktitle = {2015 International Conference on Embedded Software, {EMSOFT} 2015,
+               Amsterdam, The Netherlands, October 4-9, 2015},
+  year      = {2015},
+  crossref  = {DBLP:conf/emsoft/2015}
+}
+
+@PROCEEDINGS{DBLP:conf/emsoft/2015,
+  editor    = {Alain Girault and
+               Nan Guan},
+  title     = {2015 International Conference on Embedded Software, {EMSOFT} 2015,
+               Amsterdam, The Netherlands, October 4-9, 2015},
+  publisher = {{ACM}},
+  year      = {2015},
+}
