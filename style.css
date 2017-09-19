@@ -5,8 +5,8 @@ body {
 #colorstrip{
 	width: 100%; height: 25px;
 	border-style: none;
-	border-color: #B31B1B;
-	background: #B31B1B; /* Old browsers */
+	border-color: #00274C;
+	background: #00274C; /* Old browsers */
 }
 #canvas { 
   width:800px;
@@ -30,10 +30,10 @@ hr {
 a { 
   font-weight:bold;
   text-decoration:none;
-  color:#B31B1B; // Cornell Carnelian
+  color:#00274C; // Michigan blue
 }
 a:hover {
   text-decoration:underline;
-  color:#B31B1B;
+  color:#00274C;
   cursor:pointer;
 }
